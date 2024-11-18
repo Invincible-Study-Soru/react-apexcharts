@@ -29,7 +29,7 @@
     "prop-types": "^15.8.1"
   },
   "peerDependencies": {
-    "apexcharts": "^4.0.0",
+    "apexcharts": "github:Invincible-Study-Soru/apexcharts.js",
     "react": ">=0.13"
   },
   "devDependencies": {
