@@ -169,3 +169,5 @@ npm run build
 ## License
 
 React-ApexCharts is released under MIT license. You are free to use, modify and distribute this software, as long as the copyright header is left intact.
+
+1111
